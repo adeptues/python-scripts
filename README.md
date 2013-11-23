@@ -11,3 +11,10 @@ script: zipcracker.py
 usage: 
 	called with the filename of a zip file and a dictionary to execute
 	a dictionary attack against the zip.
+
+script: pynmap.py
+usage:
+	python pynamp.py -H <host> -p <port>
+	
+	it will tell you whats listening on that port <port> can be a
+	csv list of ports
