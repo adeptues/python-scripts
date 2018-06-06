@@ -1,6 +1,6 @@
 argparse==1.2.1
 epc==0.0.5
 jedi==0.7.0
-python-nmap==0.1.4
+python-nmap==0.1.1
 sexpdata==0.0.3
 wsgiref==0.1.2
